@@ -1,0 +1,50 @@
+.copy_right_footer {
+  position: fixed;
+  color: white;
+  bottom: 0;
+  width: 100%;
+  background-color: grey;
+  line-height: 3;
+  text-align: center;
+}
+.test_image_and_result {
+  background-color: gray;
+  border-radius: 20px;
+  padding: 30px;
+  margin-top: 40px;
+  box-shadow: 5px 5px 18px gray;
+}
+
+ol h5 {
+  background-color: white;
+  border-radius: 15px;
+  padding: 10px;
+}
+
+ol h5 b {
+  color: purple;
+}
+
+ol b, h4{
+  color: white;
+}
+
+ol img {
+  border-radius: 20px;
+}
+
+ol h5 span {
+  color: red;
+}
+
+ol span {
+  font-weight: bold;
+}
+
+.conclusion {
+  background-color: rgb(242, 192, 255);
+  border-color: blue;
+  border-style: ridge;
+  border-width: 10px;
+  border-radius: 10px;
+}
